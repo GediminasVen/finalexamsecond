@@ -17,7 +17,7 @@ public class RegistrationTest extends TestBase {
     @DataProvider(name = "Registration")
     public Object[][] RegistrationData() {
         return new Object[][]{
-                {"Gediminas", "Venslovaitis", "37062744123", "veslovaitisgediminas@yahoo.lt", "Abc123!@#1", "Abc123!@#1"},
+                {"Gediminas", "Venslovaitis", "37062744123", "vesslovaitisgediminas@yahoo.com", "Abc123!@#1", "Abc123!@#1"},
                 {"Gediminas", "Venslovaitis", "37062344123", "venslovaitisgediminas@yahoo.lt", "Abc123!@#1", " "},
                 {"Gediminas", "Venslovaitis", "37062344123", "venslovaitisgediminas@yahoo.lt", " ", "Abc123!@#1"},
                 {"Gediminas", "Venslovaitis", "37062344123", " @yahoo.lt", "Abc123!@#1", "Abc123!@#1"},
