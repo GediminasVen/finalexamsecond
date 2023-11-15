@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c95727f-42f4-42e5-b2fa-65ab7519b8f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/pages/Common.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/pages/Locator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/pages/kaukole/CartPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/pages/kaukole/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/pages/kaukole/LogoutPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/pages/kaukole/RegistrationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/pages/kaukole/SearchPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/tests/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/tests/kaukole/CartTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/tests/kaukole/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/tests/kaukole/LogoutTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/tests/kaukole/RegistrationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/tests/kaukole/SearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/utilities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/utilities/TestListenerScreenshot.java" afterDir="false" />
-    </list>
+    <list default="true" id="8c95727f-42f4-42e5-b2fa-65ab7519b8f2" name="Changes" comment="Add Search test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,6 +143,95 @@
       <option name="presentableId" value="Default" />
       <updated>1700062609684</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1700072953934</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700072953934</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add Login Test">
+      <option name="closed" value="true" />
+      <created>1700072966287</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700072966287</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add Locator">
+      <option name="closed" value="true" />
+      <created>1700072984553</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700072984553</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add TestBase">
+      <option name="closed" value="true" />
+      <created>1700072993544</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700072993544</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add screenshot">
+      <option name="closed" value="true" />
+      <created>1700073005426</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700073005426</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add Logout tests">
+      <option name="closed" value="true" />
+      <created>1700073019391</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700073019391</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add Registration test">
+      <option name="closed" value="true" />
+      <created>1700073031705</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1700073031705</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add Driver">
+      <option name="closed" value="true" />
+      <created>1700073049406</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1700073049406</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add Common">
+      <option name="closed" value="true" />
+      <created>1700073060433</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1700073060433</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add Cart test">
+      <option name="closed" value="true" />
+      <created>1700073073006</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1700073073006</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add Search test">
+      <option name="closed" value="true" />
+      <created>1700073085988</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1700073085988</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,5 +244,19 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Add Login Test" />
+    <MESSAGE value="Add Locator" />
+    <MESSAGE value="Add TestBase" />
+    <MESSAGE value="Add screenshot" />
+    <MESSAGE value="Add Logout tests" />
+    <MESSAGE value="Add Registration test" />
+    <MESSAGE value="Add Driver" />
+    <MESSAGE value="Add Common" />
+    <MESSAGE value="Add Cart test" />
+    <MESSAGE value="Add Search test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Search test" />
   </component>
 </project>
