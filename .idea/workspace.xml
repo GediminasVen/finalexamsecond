@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c95727f-42f4-42e5-b2fa-65ab7519b8f2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/pages/Common.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/pages/Locator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/pages/kaukole/CartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/pages/kaukole/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/pages/kaukole/LogoutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/pages/kaukole/RegistrationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/pages/kaukole/SearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/tests/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/tests/kaukole/CartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/tests/kaukole/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/tests/kaukole/LogoutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/tests/kaukole/RegistrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/tests/kaukole/SearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lt/gediminas/finalexamsecond/utilities/TestListenerScreenshot.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2YDaSyNse5Rd8PNtMotnGv8947g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.CartTest.testRemoveFromCart">
+    <configuration name="CartTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="finalexamsecond" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.gediminas.finalexamsecond.tests.kaukole.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lt.gediminas.finalexamsecond.tests.kaukole" />
+      <option name="MAIN_CLASS_NAME" value="lt.gediminas.finalexamsecond.tests.kaukole.CartTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartTest.testAddToCart" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="finalexamsecond" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.gediminas.finalexamsecond.tests.kaukole.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lt.gediminas.finalexamsecond.tests.kaukole" />
+      <option name="MAIN_CLASS_NAME" value="lt.gediminas.finalexamsecond.tests.kaukole.CartTest" />
+      <option name="METHOD_NAME" value="testAddToCart" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartTest.testAddToCartTwo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="finalexamsecond" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.gediminas.finalexamsecond.tests.kaukole.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lt.gediminas.finalexamsecond.tests.kaukole" />
+      <option name="MAIN_CLASS_NAME" value="lt.gediminas.finalexamsecond.tests.kaukole.CartTest" />
+      <option name="METHOD_NAME" value="testAddToCartTwo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartTest.testAddTwoItemsToCart" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="finalexamsecond" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.gediminas.finalexamsecond.tests.kaukole.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lt.gediminas.finalexamsecond.tests.kaukole" />
+      <option name="MAIN_CLASS_NAME" value="lt.gediminas.finalexamsecond.tests.kaukole.CartTest" />
+      <option name="METHOD_NAME" value="testAddTwoItemsToCart" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartTest.testRemoveFromCart" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="finalexamsecond" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.gediminas.finalexamsecond.tests.kaukole.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lt.gediminas.finalexamsecond.tests.kaukole" />
+      <option name="MAIN_CLASS_NAME" value="lt.gediminas.finalexamsecond.tests.kaukole.CartTest" />
+      <option name="METHOD_NAME" value="testRemoveFromCart" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.CartTest.testRemoveFromCart" />
+        <item itemvalue="TestNG.CartTest" />
+        <item itemvalue="TestNG.CartTest.testAddToCart" />
+        <item itemvalue="TestNG.CartTest.testAddTwoItemsToCart" />
+        <item itemvalue="TestNG.CartTest.testAddToCartTwo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c95727f-42f4-42e5-b2fa-65ab7519b8f2" name="Changes" comment="" />
+      <created>1700062609684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700062609684</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
